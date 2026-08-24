@@ -1,4 +1,4 @@
-# 필라테스 매출 2배 자가진단
+# 내 센터 매출 2배 만들기의 시작, 셀프 진단 키트
 
 H7체형교정협회 무료특강(2026.09.09) 신청자 사전 자료.
 원장·강사가 숫자 4개를 입력하면 어디서 매출이 새고 있는지 진단해주는 단일 HTML 페이지입니다.
@@ -41,7 +41,7 @@ GitHub에서 새 저장소를 만듭니다. **Public**이어야 무료 플랜에
 cd 파일이_있는_폴더
 git init
 git add .
-git commit -m "필라테스 매출 2배 자가진단"
+git commit -m "셀프 진단 키트"
 git branch -M main
 git remote add origin https://github.com/USERNAME/h7-selfcheck.git
 git push -u origin main
